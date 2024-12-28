@@ -1,0 +1,22 @@
+{
+    "welcome": "Welcome to Gardener Services",
+    "book_service": "Book a Service",
+    "services": "Our Services",
+    "contact_us": "Contact Us",
+    "service_list": {
+      "lawn_care": "Lawn Care",
+      "tree_trimming": "Tree Trimming",
+      "planting": "Planting",
+      "landscape_design": "Landscape Design"
+    },
+    "booking": "Booking Form",
+    "name": "Name",
+    "phone": "Phone",
+    "address": "Address",
+    "service": "Select a Service",
+    "date": "Select a Date",
+    "add_to_calendar": "Add to Calendar",
+    "send_sms": "Send via SMS or Telegram",
+    "submit": "Submit"
+  }
+  

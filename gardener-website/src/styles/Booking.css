@@ -1,0 +1,15 @@
+.booking {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  form label {
+    margin-top: 10px;
+  }
+  

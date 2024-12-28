@@ -1,0 +1,22 @@
+{
+    "welcome": "Willkommen bei Gärtnerdiensten",
+    "book_service": "Dienst buchen",
+    "services": "Unsere Dienstleistungen",
+    "contact_us": "Kontaktiere uns",
+    "service_list": {
+      "lawn_care": "Rasenpflege",
+      "tree_trimming": "Baumschnitt",
+      "planting": "Pflanzung",
+      "landscape_design": "Landschaftsgestaltung"
+    },
+    "booking": "Buchungsformular",
+    "name": "Name",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "service": "Wählen Sie einen Service aus",
+    "date": "Datum auswählen",
+    "add_to_calendar": "Zum Kalender hinzufügen",
+    "send_sms": "Per SMS oder Telegram senden",
+    "submit": "Einreichen"
+  }
+  
