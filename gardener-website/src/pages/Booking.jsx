@@ -3,6 +3,8 @@ import Calendar from "react-calendar";
 import "react-calendar/dist/Calendar.css";
 import { useTranslation } from "react-i18next";
 import "./../styles/Booking.css";
+import "../styles/Calendar.css";
+
 
 const Booking = () => {
   const { t } = useTranslation();
@@ -76,6 +78,7 @@ const Booking = () => {
       </form>
     </div>
   );
+  
 };
 
 export default Booking;
