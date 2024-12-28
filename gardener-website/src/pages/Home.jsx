@@ -17,7 +17,7 @@ const Home = () => {
             <button className="btn-primary">{t("book_service")}</button>
           </Link>
         </div>
-        <img src="/src/assets/hero.jpg" alt="Gardener" className="hero-image" />
+        <img src="/src/assets/hero.webp" alt="Gardener" className="hero-image" />
       </header>
 
       {/* Services Section */}
@@ -25,19 +25,19 @@ const Home = () => {
         <h2>{t("services")}</h2>
         <div className="service-list">
           <div className="service-card">
-            <img src="/src/assets/lawn.jpg" alt="Lawn Care" />
+            <img src="/src/assets/lawn.webp" alt="Lawn Care" />
             <h3>{t("service_list.lawn_care")}</h3>
           </div>
           <div className="service-card">
-            <img src="/src/assets/tree.jpg" alt="Tree Trimming" />
+            <img src="/src/assets/tree.webp" alt="Tree Trimming" />
             <h3>{t("service_list.tree_trimming")}</h3>
           </div>
           <div className="service-card">
-            <img src="/src/assets/planting.jpg" alt="Planting" />
+            <img src="/src/assets/planting.webp" alt="Planting" />
             <h3>{t("service_list.planting")}</h3>
           </div>
           <div className="service-card">
-            <img src="/src/assets/landscape.jpg" alt="Landscape Design" />
+            <img src="/src/assets/landscape.webp" alt="Landscape Design" />
             <h3>{t("service_list.landscape_design")}</h3>
           </div>
         </div>
