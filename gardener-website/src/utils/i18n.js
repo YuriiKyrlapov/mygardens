@@ -13,8 +13,8 @@ i18n.use(initReactI18next).init({
     ru: { translation: ru },
     uk: { translation: uk },
   },
-  lng: "en", // Язык по умолчанию
-  fallbackLng: "en", // Язык по умолчанию при отсутствии перевода
+  lng: "de", // Язык по умолчанию
+  fallbackLng: "de", // Язык по умолчанию при отсутствии перевода
   interpolation: {
     escapeValue: false, // React автоматически экранирует строки
   },
